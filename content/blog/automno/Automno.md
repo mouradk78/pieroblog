@@ -1,7 +1,7 @@
 ---
 title:  Automno
 date: "2019-05-01T22:12:03.284Z"
-description: something
+description: Guardavo alla finestra al cuore dell’Autunno...
 ---
 
 Guardavo alla finestra
